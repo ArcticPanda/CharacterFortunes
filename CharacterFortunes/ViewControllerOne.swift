@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewControllerOne: UIViewController {
+    @IBOutlet var sampleText: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -52,6 +53,8 @@ class ViewControllerOne: UIViewController {
             // but I prefer to enter the math as a reminder of what's happenings
             coloredSquare.frame = CGRect(x: 320-50, y: 120, width: 50, height: 50)
         })
+        
+        sampleText.text = "It does not matter how slowly you go as long as you do not stop."
     }
     
 }
