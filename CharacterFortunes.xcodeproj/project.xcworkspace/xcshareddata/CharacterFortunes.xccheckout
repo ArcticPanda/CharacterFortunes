@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>3C0AD912-AD68-4217-8A10-95E9243FFE60</string>
 	<key>IDESourceControlProjectName</key>
-	<string>CharacterFortunes</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>675F13831C45FE04F782B28D1D2F9639E61E8632</key>
 		<string>github.com:ArcticPanda/CharacterFortunes.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CharacterFortunes.xcodeproj</string>
+	<string>CharacterFortunes.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>675F13831C45FE04F782B28D1D2F9639E61E8632</key>
